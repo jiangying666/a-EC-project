@@ -45,18 +45,4 @@ Spring Cloud 使用的各种示例，以最简单、最实用为标准
 - [springcloud(十六)：服务网关 Spring Cloud GateWay 服务化和过滤器](http://www.ityouknow.com/springcloud/2019/01/19/spring-cloud-gateway-service.html)  
 - [springcloud(十七)：服务网关 Spring Cloud GateWay 熔断、限流、重试](http://www.ityouknow.com/springcloud/2019/01/26/spring-cloud-gateway-limit.html)  
 
-综合篇：
-
-- **[Spring Cloud在国内中小型公司能用起来吗？](http://www.ityouknow.com/springcloud/2017/09/11/can-use-springcloud.html)**   
-- **[中小型互联网公司微服务实践-经验和教训](http://www.ityouknow.com/springcloud/2017/10/19/micro-service-practice.html)**    
-- **[从架构演进的角度聊聊Spring Cloud都做了些什么？](http://www.ityouknow.com/springcloud/2017/11/02/framework-and-springcloud.html)**   
-- **[阿里Dubbo疯狂更新，关Spring Cloud什么事？](http://www.ityouknow.com/springcloud/2017/11/20/dubbo-update-again.html)**   
-
-> 如果大家想了解关于springcloud的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-cloud-examples/issues)的形式反馈给我，我后续来完善。
-
- 
- 关注公众号：纯洁的微笑，回复"springboot"进群交流
-
-![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
-
 
